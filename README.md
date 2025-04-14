@@ -1,0 +1,1 @@
+# Configurações terminal com ZSH e K8S
