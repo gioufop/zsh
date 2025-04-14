@@ -75,7 +75,7 @@ git
 kube-ps1
 zsh-autosuggestions
 zsh-history-substring-search
-zsh-syntax-highlighting.git
+zsh-syntax-highlighting
 )
 
 source $ZSH/oh-my-zsh.sh

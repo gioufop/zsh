@@ -23,18 +23,15 @@ chsh -s $(which zsh)
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
-## copy_custom_theme_bira
+## confiure_zsh_theme
 
 ```bash
-echo "Copy bira custom theme..."
-cp ~/zsh/bira.zsh-theme ~/.oh-my-zsh/custom/themes/
+vim .zshrc
 ```
 
-## copy_zshrc_config
-
-```bash
-echo "Configuring zshrc"
-cp zshrc ~/.zshrc
+Altere o tema para "bira":
+```
+ZSH_THEME="bira"
 ```
 
 ## install_config_plugins
