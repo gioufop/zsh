@@ -64,7 +64,7 @@ ZSH_THEME="bira" #"robbyrussell"
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
-ssh-agent
+# ssh-agent
 git
 history-substring-search
 zsh-syntax-highlighting
