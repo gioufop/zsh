@@ -57,3 +57,7 @@ RPROMPT=''
 ```bash
 reboot
 ```
+
+## Result
+
+![Final Result](/images/console.png)
