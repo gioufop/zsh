@@ -1,4 +1,4 @@
-# Configuring Console
+# Configuring Console with ZSH and K8S
 
 ## install_kubectl
 
@@ -51,9 +51,9 @@ zsh-history-substring-search
 zsh-syntax-highlighting.git
 )
 
-RPROMPT='$(kube_ps1)'
+RPROMPT=''
 ``` 
 
 ```bash
-echo "DONE!"
+reboot
 ```
