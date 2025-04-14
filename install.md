@@ -27,7 +27,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 
 ```bash
 echo "Copy bira custom theme..."
-cp bira.zsh-theme ~/.oh-my-zsh/custom/themes/
+cp ~/zsh/bira.zsh-theme ~/.oh-my-zsh/custom/themes/
 ```
 
 ## copy_zshrc_config
