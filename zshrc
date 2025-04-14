@@ -73,6 +73,9 @@ ZSH_THEME="bira"
 plugins=(
 git
 kube-ps1
+zsh-autosuggestions
+zsh-history-substring-search
+zsh-syntax-highlighting.git
 )
 
 source $ZSH/oh-my-zsh.sh
