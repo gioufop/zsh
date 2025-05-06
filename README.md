@@ -52,7 +52,7 @@ git
 kube-ps1
 zsh-autosuggestions
 zsh-history-substring-search
-zsh-syntax-highlighting.git
+zsh-syntax-highlighting
 )
 ```
 
