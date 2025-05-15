@@ -8,6 +8,12 @@ sudo snap install kubectl --classic
 sudo apt-get install -y kubectx
 ```
 
+## install_fzf
+
+```bash
+sudo apt-get install fzf
+```
+
 ## install_zsh
 
 ```bash
